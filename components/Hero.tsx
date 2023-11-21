@@ -6,7 +6,7 @@ const Hero = () => {
   const handleScroll = () => {}
   return (
     <div className="hero">
-      <div className="flex-1 pt-28 padding-x">
+      <div className="flex-1 pt-24 padding-x">
         <h1 className="hero__title">
           Book or rent a car - quickly and easily!
         </h1>
